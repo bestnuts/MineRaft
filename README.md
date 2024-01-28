@@ -1,5 +1,5 @@
 # MineRaft
-Steam Raft In Minecraft Java Edition 1.20.2v
+Steam Raft In Minecraft Java Edition 1.20.2
 Made by Bestnuts From Korea
 
 # Link
